@@ -2,7 +2,9 @@
 A great little library for querying all relevant CPU information in .Net
 
 • Supports multi processor servers with 64+ cores.
+
 • Provides CPU, Core and Logical Core counts accurately.
+
 • Intuitive CPU objects.
 
 # Demo
