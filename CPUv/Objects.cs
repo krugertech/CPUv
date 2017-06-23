@@ -41,7 +41,7 @@ namespace Simplified.Environment
 
         public int TotalLogicalCores
         {
-            get { return this.Sum(c => c.CoreCount); }
+            get { return this.Sum(c => c.LogicalCoreCount); }
         }
 
         public int TotalLoadPercentage
