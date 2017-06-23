@@ -32,4 +32,4 @@ A great little library for querying all relevant CPU information in .Net
             Console.ReadLine();
 ```
 
-![alt text](https://raw.githubusercontent.com/krugertech/CPUv/master/CPUvDemo.PNG)
+![alt text](https://raw.githubusercontent.com/krugertech/CPUv/master/CPUvDemo.png)
