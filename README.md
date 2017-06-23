@@ -5,6 +5,8 @@ A great little library for querying all relevant CPU information in .Net
 
 • Provides CPU, Core and Logical Core counts accurately.
 
+• Useful info such as CPU Clock Speed and Percentage Load.
+
 • Very simple to use object collection model.
 
 # Demo
