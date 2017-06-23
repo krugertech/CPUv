@@ -5,7 +5,7 @@ A great little library for querying all relevant CPU information in .Net
 
 • Provides CPU, Core and Logical Core counts accurately.
 
-• Intuitive CPU objects.
+• Very simple to use object collection model.
 
 # Demo
 
